@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "All Entities are Not Created Equal: Examining the Long Tail for Fine-Grained Entity Typing"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/entities-short-1
+excerpt: 'Pre-trained language models (PLMs) are trained on large amounts of data, which helps capture world knowledge alongside linguistic competence. Due to this, they are extensively used for ultra-fine entity typing tasks, where they provide the entity knowledge held in its parameter space. Given that PLMs learn from co-occurrence patterns, they likely contain more knowledge or less knowledge about entities depending on their how frequent they are in the pre-training data. In this work, we probe PLMs to elicit encoded entity probabilities and demonstrate that they highly correlate with their frequency in large-scale internet data. Then, we demonstrate that entity-typing approaches that rely on PLMs struggle with entities at the long tail on the distribution. Our findings suggests that we need to go beyond PLMs to produce solutions that perform well for rare, new or infrequent entities. '
+date: 2024-10-15
+venue: 'ARR'
+paperurl: '[arxiv](https://arxiv.org/abs/2410.17355)'
+citation: 'Advait Deshmukh, Ashwin Umadi, Dananjay Srinivas, Maria Leonor Pacheco'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
