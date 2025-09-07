@@ -20,7 +20,7 @@ I've been part of the instructional staff for "CSCI 1300: Intro to Computing" at
 
 Previously, I worked as a Software Engineer in the Innovation Team at Societe Generale Global Solution Center in Bangalore, where I contributed to the development of cutting-edge technological solutions, including a Retrieval-Augmented Generation (RAG) based chat system. I completed my undergraduate degree in Computer Science from BITS Pilani, where I gained a strong foundation in computer science and AI. 
 
-In addition to my professional and academic pursuits, I am passionate about reading books, playing chess, and ~painting~ cat-sitting, which provide me with a creative outlet and a way to unwind. If you're interested in connecting or discussing potential collaborations, please feel free to reach out to me at advait.deshmukh@colorado.edu
+In addition to my professional and academic pursuits, I am passionate about reading books, playing chess, and ~~painting~~ cat-sitting, which provide me with a creative outlet and a way to unwind. If you're interested in connecting or discussing potential collaborations, please feel free to reach out to me at advait.deshmukh@colorado.edu
 
 ## Education
 
