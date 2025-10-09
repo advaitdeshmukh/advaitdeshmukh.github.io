@@ -14,7 +14,7 @@ I'm currently conducting research at the [BLAST Lab](https://blast-cu.github.io/
 
 I have previously been involved in research at [BAIC Lab](https://baic.center/) led by [Dr. Tom Yeh](https://www.colorado.edu/cs/tom-yeh) where I attempted to enhance vision capabilities in large language models though knowledge distillation, contributing to the advancement of multimodal AI research. 
 
-For my research activities at CU I recieved the prestigious [Lloyd Botway Fellowship](https://www.colorado.edu/engineering/2023/02/14/lloyd-botway-mcompsci70).
+For my research activities at CU I received the prestigious [Lloyd Botway Fellowship](https://www.colorado.edu/engineering/2023/02/14/lloyd-botway-mcompsci70).
 
 I've been part of the instructional staff for "CSCI 1300: Intro to Computing" at CU since Fall 2023. After my work as a course manager for the class, I was a TA for the class in Fall 2024/Spring 2025. I was awarded the best TA award by the department for my work with 1300.
 
