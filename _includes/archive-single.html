@@ -43,11 +43,7 @@
         {% elsif post.collection == 'publications' %}
           {% assign year_str = post.date | default: "1900-01-01" | date: "%Y" %}
           {% if post.status %}
-            {# If you want "Submitted to <venue>" when venue is present: #}
             <p>{{ post.status }}{% if post.venue %} to <i>{{ post.venue }}</i>{% endif %}, {{ year_str }}</p>
-            {# Alternative style (badge + optional venue):
-            <p><span class="label label-primary">{{ post.status }}</span>{% if post.venue %} — <i>{{ post.venue }}</i>{% endif %}, {{ year_str }}</p>
-            #}
           {% elsif post.venue %}
             <p>Published in <i>{{ post.venue }}</i>, {{ year_str }}</p>
           {% else %}
