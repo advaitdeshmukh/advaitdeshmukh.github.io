@@ -24,7 +24,7 @@ Previously, I worked as a Software Engineer in the Innovation Team at Societe Ge
 
 In addition to my professional and academic pursuits, I am passionate about reading books, playing chess, and ~~painting~~ cat-sitting, which provide me with a creative outlet and a way to unwind. If you're interested in connecting or discussing potential collaborations, please feel free to reach out to me at advait.deshmukh@colorado.edu
 
-<sup>*</sup> Come back later to find out about more super secret projects ;)
+<sup>*</sup> Come back later to find out about super-secret projects ;)
 ## Education
 
 - **M.S. in Computer Science**  
