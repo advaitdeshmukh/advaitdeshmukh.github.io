@@ -86,9 +86,10 @@ author:
   location         : "Boulder, CO, USA"
   employer         : "CU Boulder"
   pubmed           :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=nyL0BUEAAAAJ&hl=en&oi=sra"
   email            : "advait.deshmukh@colorado.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bluesky          : "advaitdeshmukh.com"
   uri              :
   bitbucket        :
   codepen          :
