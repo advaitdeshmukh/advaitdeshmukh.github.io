@@ -35,7 +35,7 @@ These days, I am exploring ways to improve generalizability of popular Event Cau
 
 I have previously been involved in research at [BAIC Lab](https://baic.center/) led by [Dr. Tom Yeh](https://www.colorado.edu/cs/tom-yeh) where I attempted to enhance vision capabilities in large language models though knowledge distillation, contributing to the advancement of multimodal AI research.
 
-In addition to my professional and academic pursuits, I am passionate about reading books, playing chess, and ~~painting~~ cat-sitting, which provide me with a creative outlet and a way to unwind. If you're interested in connecting or discussing potential collaborations, please feel free to reach out to me at advait.deshmukh@colorado.edu
+In addition to my professional and academic pursuits, I am passionate about reading books, playing chess, and ~~painting~~ cat-sitting, which provide me with a creative outlet and a way to unwind.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
