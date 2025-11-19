@@ -33,13 +33,7 @@ I'm currently conducting research at the [BLAST Lab](https://blast-cu.github.io/
 
 These days, I am exploring ways to improve generalizability of popular Event Causality Identification (ECI) approaches with [I-Ta](https://doug919.github.io/) and reframing Entity Typing problem in context of longer narratives with [Maria](https://blast-cu.github.io/mlpacheco/).
 
-I have previously been involved in research at [BAIC Lab](https://baic.center/) led by [Dr. Tom Yeh](https://www.colorado.edu/cs/tom-yeh) where I attempted to enhance vision capabilities in large language models though knowledge distillation, contributing to the advancement of multimodal AI research. 
-
-For my research activities at CU I received the prestigious [Lloyd Botway](https://www.colorado.edu/engineering/2023/02/14/lloyd-botway-mcompsci70) Award.
-
-I've been part of the instructional staff for "CSCI 1300: Intro to Computing" at CU since Fall 2023. After my work as a course manager for the class, I was a TA for the class in Fall 2024/Spring 2025. I was awarded the best TA award by the department for my work with 1300.
-
-In the past, I have worked as a Software Engineer in the Innovation Team at Societe Generale Global Solution Center in Bangalore, where I contributed to the development of cutting-edge technological solutions, including a Retrieval-Augmented Generation (RAG) based chat system. I completed my undergraduate degree in Computer Science from BITS Pilani, where I gained a strong foundation in computer science and AI. 
+I have previously been involved in research at [BAIC Lab](https://baic.center/) led by [Dr. Tom Yeh](https://www.colorado.edu/cs/tom-yeh) where I attempted to enhance vision capabilities in large language models though knowledge distillation, contributing to the advancement of multimodal AI research.
 
 In addition to my professional and academic pursuits, I am passionate about reading books, playing chess, and ~~painting~~ cat-sitting, which provide me with a creative outlet and a way to unwind. If you're interested in connecting or discussing potential collaborations, please feel free to reach out to me at advait.deshmukh@colorado.edu
 
