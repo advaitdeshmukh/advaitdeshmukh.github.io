@@ -45,11 +45,14 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-our-work-on-entity-typing-got-accepted-to-sem-co-located-with-emnlp-2025",
-          title: 'Our work on entity typing got accepted to *SEM (co-located with EMNLP 2025)...',
+      },{id: "news-the-computer-science-department-at-cu-has-awarded-me-with-the-lloyd-botway-award-and-recognized-me-as-one-of-the-best-tas",
+          title: '🎉 the computer science department at CU has awarded me with the Lloyd...',
+          description: "",
+          section: "News",},{id: "news-our-work-on-entity-typing-got-accepted-to-sem-co-located-with-emnlp-2025",
+          title: '🎉 Our work on entity typing got accepted to *SEM (co-located with EMNLP...',
           description: "",
           section: "News",},{id: "news-i-will-be-attending-emnlp-2025-and-presenting-my-poster-at-sem-see-you-in-suzhou",
-          title: 'I will be attending EMNLP 2025 and presenting my poster at *SEM, see...',
+          title: '🪭 I will be attending EMNLP 2025 and presenting my poster at *SEM,...',
           description: "",
           section: "News",},{
         id: 'social-bluesky',
