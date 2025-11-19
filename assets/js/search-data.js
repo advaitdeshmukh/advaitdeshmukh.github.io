@@ -443,8 +443,8 @@ ninja.data = [{
             },},{id: "news-our-work-on-entity-typing-got-accepted-to-sem-co-located-with-emnlp-2025",
           title: 'Our work on entity typing got accepted to *SEM (co-located with EMNLP 2025)...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
