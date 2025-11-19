@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on Entity Typing got accepted to *SEM (co-located with EMNLP 2025)
+Our work on entity typing got accepted to *SEM (co-located with EMNLP 2025)
