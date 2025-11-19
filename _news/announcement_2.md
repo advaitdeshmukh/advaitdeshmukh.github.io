@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-11-01 
-inline: false
+inline: true
 related_posts: false
 ---
 
