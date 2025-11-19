@@ -441,7 +441,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-our-work-on-entity-typing-got-accepted-to-sem-co-located-with-emnlp-2025",
-          title: 'Our work on Entity Typing got accepted to *SEM (co-located with EMNLP 2025)...',
+          title: 'Our work on entity typing got accepted to *SEM (co-located with EMNLP 2025)...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
