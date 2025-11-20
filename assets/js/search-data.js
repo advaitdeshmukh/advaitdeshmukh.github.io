@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "news-the-computer-science-department-at-cu-has-awarded-me-with-the-lloyd-botway-award-and-recognized-me-as-one-of-the-best-tas",
-          title: '🎉 the computer science department at CU has awarded me with the Lloyd...',
+          title: '🎉 The computer science department at CU has awarded me with the Lloyd...',
           description: "",
           section: "News",},{id: "news-our-work-on-entity-typing-got-accepted-to-sem-co-located-with-emnlp-2025",
           title: '🎉 Our work on entity typing got accepted to *SEM (co-located with EMNLP...',
