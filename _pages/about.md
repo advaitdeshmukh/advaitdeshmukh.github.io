@@ -27,7 +27,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I’m Advait, a graduate student in Computer Science at the University of Colorado Boulder with a primary research interests in Natural Language Processing. I aim to leverage interpretability tools to study failure modes of language technologies and to make these systems more robust by instilling linguistically and cognitively informed inductive biases in them.
+Hi! I’m Advait, a graduate student in Computer Science at the University of Colorado Boulder with primary research interests in Natural Language Processing. I aim to leverage interpretability tools to study failure modes of language technologies and to make these systems more robust by instilling linguistically and cognitively informed inductive biases in them.
 
 I'm currently conducting research at the [BLAST Lab](https://blast-cu.github.io/) at University of Colorado Boulder, where I'm collaborating on various projects with [Dr. Maria Pacheco](https://blast-cu.github.io/mlpacheco/). I was recently in Suzhou to present my [short paper](https://aclanthology.org/2025.starsem-1.15/) on entity typing at *SEM 2025 (co-located with EMNLP). I recently collaborated with [Rohan](https://www.rohandas.net/) on his work 'A Structured Clustering Approach for Narrative Schema Induction' (Recommended to ACL '26 in July ARR). 
 
