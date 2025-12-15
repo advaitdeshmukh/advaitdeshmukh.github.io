@@ -35,6 +35,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-accepted-a-phd-position-with-prof-maria-antoniak-at-cu-boulder-and-will-be-starting-in-spring-2026",
           title: '🎉 I have accepted a PhD position with Prof. Maria Antoniak at CU...',
           description: "",
+          section: "News",},{id: "news-i-graduated-from-the-masters-program-at-cu-boulder",
+          title: '🎓 I graduated from the masters program at CU Boulder!',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
