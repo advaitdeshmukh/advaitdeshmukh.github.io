@@ -27,11 +27,11 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I’m Advait, a graduate student in Computer Science at the University of Colorado Boulder with primary research interests in Natural Language Processing. I aim to leverage interpretability tools to study failure modes of language technologies and to make these systems more robust by instilling linguistically and cognitively informed inductive biases in them.
+Hi! I’m Advait, a Computer Science Ph.D. student the University of Colorado Boulder, advised by [Dr. Maria Antoniak](https://maria-antoniak.github.io/). My primary research interests lie in Natural Language Processing. I aim to leverage interpretability tools to study failure modes of language technologies and to make these systems more robust by instilling linguistically and cognitively informed inductive biases in them.
 
-I'm currently conducting research at the [BLAST Lab](https://blast-cu.github.io/) at University of Colorado Boulder, where I'm collaborating on various projects with [Dr. Maria Pacheco](https://blast-cu.github.io/mlpacheco/). I was recently in Suzhou to present my [short paper](https://aclanthology.org/2025.starsem-1.15/) on entity typing at *SEM 2025 (co-located with EMNLP). I recently collaborated with [Rohan](https://www.rohandas.net/) on his work 'A Structured Clustering Approach for Narrative Schema Induction' (Recommended to ACL '26 in July ARR). 
+I'm currently conducting research on narratives at the [Antoniak lab](https://maria-antoniak.github.io/antoniak-lab). I previously worked at and continue to collaborate with [BLAST Lab](https://blast-cu.github.io/) lead by [Dr. Maria Pacheco](https://blast-cu.github.io/mlpacheco/). I recently presented my [short paper](https://aclanthology.org/2025.starsem-1.15/) on entity typing at *SEM 2025 (co-located with EMNLP). I recently collaborated with [Rohan](https://www.rohandas.net/) on his work 'A Structured Clustering Approach for Narrative Schema Induction' (Recommended to ACL '26 in July ARR). 
 
-These days, I am exploring ways to improve generalizability of popular Event Causality Identification (ECI) approaches with [I-Ta](https://doug919.github.io/) and reframing Entity Typing problem in context of longer narratives with [Maria](https://blast-cu.github.io/mlpacheco/).
+<!--  These days, I am exploring ways to improve generalizability of popular Event Causality Identification (ECI) approaches with [I-Ta](https://doug919.github.io/) and reframing Entity Typing problem in context of longer narratives with [Maria](https://blast-cu.github.io/mlpacheco/).  -->
 <!-- 
 I have previously been involved in research at [BAIC Lab](https://baic.center/) led by [Dr. Tom Yeh](https://www.colorado.edu/cs/tom-yeh). -->
 
