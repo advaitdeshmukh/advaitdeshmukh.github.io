@@ -38,6 +38,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-graduated-from-the-masters-program-at-cu-boulder",
           title: '🎓 I graduated from the masters program at CU Boulder!',
           description: "",
+          section: "News",},{id: "news-my-second-author-work-led-by-rohan-was-accepted-to-acl-2026",
+          title: '🎉 My second-author work, led by Rohan was accepted to ACL 2026!',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
