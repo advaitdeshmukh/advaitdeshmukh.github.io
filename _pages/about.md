@@ -26,19 +26,8 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
+Hi! I'm Advait, a Computer Science Ph.D. student at the University of Colorado Boulder, advised by [Dr. Maria Antoniak](https://maria-antoniak.github.io/). My research interests lie in Natural Language Processing, with a focus on Discourse Processing and Narrative Understanding. I'm broadly interested in the inductive biases we rely on to make sense of discourse — and how such insights can inform the design of better language technologies. I'm also drawn to narrative as a medium for storytelling and as a lens through which to study culture.
 
-Hi! I’m Advait, a Computer Science Ph.D. student the University of Colorado Boulder, advised by [Dr. Maria Antoniak](https://maria-antoniak.github.io/). My primary research interests lie in Natural Language Processing. I aim to leverage interpretability tools to study failure modes of language technologies and to make these systems more robust by instilling linguistically and cognitively informed inductive biases in them.
+I'm currently studying creative co-writing as a way to understand reader preferences at scale in the [Antoniak lab](https://maria-antoniak.github.io/antoniak-lab). I previously worked at—and continue to collaborate with—the [BLAST Lab](https://blast-cu.github.io/) led by [Dr. Maria Pacheco](https://blast-cu.github.io/mlpacheco/). I recently presented my [short paper](https://aclanthology.org/2025.starsem-1.15/) on entity typing at *SEM 2025 (co-located with EMNLP). I also recently collaborated with [Rohan](https://www.rohandas.net/) on his work 'A Structured Clustering Approach for Narrative Schema Induction' (ACL 2026, San Diego). 
 
-I'm currently conducting research on narratives at the [Antoniak lab](https://maria-antoniak.github.io/antoniak-lab). I previously worked at and continue to collaborate with [BLAST Lab](https://blast-cu.github.io/) lead by [Dr. Maria Pacheco](https://blast-cu.github.io/mlpacheco/). I recently presented my [short paper](https://aclanthology.org/2025.starsem-1.15/) on entity typing at *SEM 2025 (co-located with EMNLP). I recently collaborated with [Rohan](https://www.rohandas.net/) on his work 'A Structured Clustering Approach for Narrative Schema Induction' (Recommended to ACL '26 in July ARR). 
-
-<!--  These days, I am exploring ways to improve generalizability of popular Event Causality Identification (ECI) approaches with [I-Ta](https://doug919.github.io/) and reframing Entity Typing problem in context of longer narratives with [Maria](https://blast-cu.github.io/mlpacheco/).  -->
-<!-- 
-I have previously been involved in research at [BAIC Lab](https://baic.center/) led by [Dr. Tom Yeh](https://www.colorado.edu/cs/tom-yeh). -->
-
-In addition to my professional and academic pursuits, I like reading books, playing chess, and ~~painting~~ cat-sitting.
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+Outside of research, I like reading books, playing chess, and ~~painting~~ cat-sitting.
