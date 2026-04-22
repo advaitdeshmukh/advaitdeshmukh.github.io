@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2025-12-08'
+  last_updated: '2026-04-22'
 papers:
+  nyL0BUEAAAAJ:d1gkVwhDpl0C:
+    citations: 0
+    title: A Structured Clustering Approach for Inducing Media Narratives
+    year: '2026'
   nyL0BUEAAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: 'All Entities are Not Created Equal: Examining the Long Tail for Ultra-Fine Entity Typing'
