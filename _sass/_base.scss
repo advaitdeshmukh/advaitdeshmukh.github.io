@@ -790,9 +790,13 @@ footer.sticky-bottom {
           }
         }
 
-        > em {
-          border-bottom: 1px solid;
+        .author-self {
+          background-color: color-mix(in srgb, var(--global-theme-color) 16%, transparent);
+          border-radius: 0.2rem;
+          color: var(--global-theme-color);
           font-style: normal;
+          font-weight: 600;
+          padding: 0.05rem 0.18rem;
         }
 
         > span.more-authors {
