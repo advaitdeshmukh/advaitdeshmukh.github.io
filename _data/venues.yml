@@ -1,9 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"COLM":
+  url: https://colmweb.org/
+  color: "#1f6feb"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ACL":
+  url: https://aclanthology.org/venues/acl/
+  color: "#ed1c24"
 
-"Vision":
-  color: "#009f36"
+"*SEM":
+  url: https://aclanthology.org/venues/starsem/
+  color: "#2e8b57"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
