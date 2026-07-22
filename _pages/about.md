@@ -31,6 +31,6 @@ Hi! I'm Advait, a Computer Science Ph.D. student at the University of Colorado B
 
 I'm currently studying creative co-writing as a way to understand reader preferences at scale in the [CLS Lab](https://maria-antoniak.github.io/cls-lab) with Dr. Maria Antoniak. I previously worked at—and continue to collaborate with—the [BLAST Lab](https://blast-cu.github.io/) led by [Dr. Maria Pacheco](https://blast-cu.github.io/mlpacheco/).
 
-Prior to my PhD, I worked for two years as a software engineer at Société Générale in Bangalore — where, among other things, I built a retrieval-augmented chat system that nudged me toward the NLP research I do today.
+Prior to my PhD, I worked for two years as a software engineer at Société Générale in Bangalore — where, among other things, I built a retrieval-augmented chat system that nudged me toward the NLP research I do today. This summer, I was an Applied Science Intern at Amazon in Bellevue, on the Supply Chain Optimization Technologies (SCOT) team's long-term planning and forecasting org, where I improved evaluation for their agentic systems.
 
 Outside of research, I like reading books, playing chess, and ~~painting~~ cat-sitting.
