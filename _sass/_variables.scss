@@ -9,18 +9,16 @@ $red-color-dark: #e88b93 !default;
 $orange-color: #f6b26b !default;
 $blue-color: #7fa8d9 !default;
 $blue-color-dark: #5f86b8 !default;
-$cyan-color: #8fd0dd !default;
-$light-cyan-color: lighten($cyan-color, 25%);
-$green-color: #86c6a5 !default;
-$green-color-lime: #cfe0a3 !default;
-$green-color-dark: #7bbf9e !default;
-$green-color-light: #e6f7ee !default;
-$green-color-bright: #8fe0c0 !default;
-$purple-color: #b79ddb !default;
-$light-purple-color: lighten($purple-color, 25%);
 $pink-color: #f4a6c6 !default;
 $pink-color-light: #ffe3ec !default;
 $yellow-color: #f0dd91 !default;
+
+// Site accent palette
+$fern-color: #4b7f52 !default;
+$moss-green-color: #7dd181 !default;
+$celadon-color: #96e8bc !default;
+$celadon-color-2: #b6f9c9 !default;
+$frosted-mint-color: #c9ffe2 !default;
 
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%);
@@ -32,7 +30,7 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-light: rgba($fern-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
