@@ -1,15 +1,15 @@
 "COLM":
   url: https://colmweb.org/
-  color: "#7dd181"
+  color: "#7fa8d9"
 
 "ACL":
   url: https://aclanthology.org/venues/acl/
-  color: "#96e8bc"
+  color: "#e88b93"
 
 "*SEM":
   url: https://aclanthology.org/venues/starsem/
-  color: "#b6f9c9"
+  color: "#7bbf9e"
 
 "arXiv":
   url: https://arxiv.org/
-  color: "#c9ffe2"
+  color: "#c99ad9"
