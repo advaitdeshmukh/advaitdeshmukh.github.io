@@ -1,0 +1,4 @@
+[submodule "cv-src"]
+	path = cv-src
+	url = https://github.com/advaitdeshmukh/CV.git
+	branch = main
