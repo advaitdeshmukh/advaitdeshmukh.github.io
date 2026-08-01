@@ -1,6 +1,6 @@
 name: Update CV
 
-# Keeps assets/pdf/Resume.pdf in sync with the private CV submodule (cv-src).
+# Keeps assets/pdf/CV.pdf in sync with the private CV submodule (cv-src).
 # Bumps the submodule to its latest commit, compiles main.tex, and commits the
 # resulting PDF — which triggers the normal "Deploy site" workflow.
 
@@ -36,13 +36,13 @@ jobs:
       - name: Copy PDF into assets 📥
         run: |
           mkdir -p assets/pdf
-          cp cv-src/main.pdf assets/pdf/Resume.pdf
+          cp cv-src/main.pdf assets/pdf/CV.pdf
 
       - name: Commit if changed 💾
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add cv-src assets/pdf/Resume.pdf
+          git add cv-src assets/pdf/CV.pdf
           if git diff --cached --quiet; then
             echo "CV is already up to date — nothing to commit."
           else

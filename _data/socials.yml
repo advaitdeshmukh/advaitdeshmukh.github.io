@@ -9,7 +9,7 @@
 # arxiv_id: # your arXiv author ID
 # blogger_url: # your blogger URL
 bluesky_url: "https://bsky.app/profile/advaitdeshmukh.com" # your bluesky URL
-cv_pdf: /assets/pdf/Resume.pdf # path to your CV PDF file
+cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: adde1214@colorado.edu # your email address
