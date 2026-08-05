@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-08-05'
 papers:
+  nyL0BUEAAAAJ:9yKSN-GCB0IC:
+    citations: 0
+    title: 'Narrative-UFET: Narrative Generation for Ultra-Fine Entity Typing'
+    year: '2026'
   nyL0BUEAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: A Structured Clustering Approach for Inducing Media Narratives
