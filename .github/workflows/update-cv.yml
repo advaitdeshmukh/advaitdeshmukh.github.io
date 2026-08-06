@@ -3,10 +3,15 @@ name: Update CV
 # Keeps assets/pdf/CV.pdf in sync with the private CV submodule (cv-src).
 # Bumps the submodule to its latest commit, compiles main.tex, and commits the
 # resulting PDF — which triggers the normal "Deploy site" workflow.
+#
+# Fired by the CV repo's own "Notify website" workflow (see
+# advaitdeshmukh/CV/.github/workflows/notify-website.yml) via a
+# repository_dispatch call on every push to CV's main branch, instead of
+# polling on a schedule.
 
 on:
-  schedule:
-    - cron: "0 6 * * *" # daily at 06:00 UTC
+  repository_dispatch:
+    types: [cv-updated]
   workflow_dispatch:
 
 permissions:
