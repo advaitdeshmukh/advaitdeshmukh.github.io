@@ -47,8 +47,8 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-narrative-ufet-narrative-generation-for-ultra-fine-entity-typing-led-by-mreedul-gupta-is-now-on-arxiv",
           title: '🎉 New preprint! Narrative-UFET: Narrative Generation for Ultra-Fine Entity Typing, led by Mreedul...',
           description: "",
-          section: "News",},{id: "news-my-first-phd-paper-was-accepted-to-colm-2026-preprint-out-soon-see-you-in-san-francisco",
-          title: '🎉 My first PhD paper was accepted to COLM 2026! Preprint out soon...',
+          section: "News",},{id: "news-my-first-phd-paper-the-garden-of-forking-prompts-was-accepted-to-colm-2026-see-you-in-san-francisco",
+          title: '🎉 My first PhD paper, The Garden of Forking Prompts, was accepted to...',
           description: "",
           section: "News",},{
         id: 'social-bluesky',
