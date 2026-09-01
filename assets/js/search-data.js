@@ -50,6 +50,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-first-phd-paper-the-garden-of-forking-prompts-was-accepted-to-colm-2026-see-you-in-san-francisco",
           title: '🎉 My first PhD paper, The Garden of Forking Prompts, was accepted to...',
           description: "",
+          section: "News",},{id: "news-the-garden-of-forking-prompts-was-also-accepted-to-tada-2026-see-you-there",
+          title: '🎉 The Garden of Forking Prompts was also accepted to TADA 2026 —...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
