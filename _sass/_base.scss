@@ -934,6 +934,11 @@ pre {
     border-radius: 0;
     margin-bottom: 0;
     padding: 0;
+
+    // Keep the block's line breaks; the inline-code rule below would
+    // otherwise collapse a highlighted block onto a single line.
+    white-space: inherit;
+    word-wrap: normal;
   }
 }
 
