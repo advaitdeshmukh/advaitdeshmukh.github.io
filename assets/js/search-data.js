@@ -68,13 +68,6 @@ ninja.data = [{
           window.open("/assets/pdf/CV.pdf", "_blank");
         },
       },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%61%64%64%65%31%32%31%34@%63%6F%6C%6F%72%61%64%6F.%65%64%75", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
