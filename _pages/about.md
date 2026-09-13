@@ -32,6 +32,6 @@ Within these broader themes, I keep returning to narrative and discourse. Partly
 
 I'm part of the [CLS Lab](https://cls-lab.com) at CU Boulder. I previously worked at — and continue to collaborate with — the [BLAST Lab](https://blast-cu.github.io/), led by [Dr. Maria Pacheco](https://blast-cu.github.io/mlpacheco/).
 
-Outside of academia, I spent this past summer as an Applied Science Intern at Amazon in Bellevue, on the long-term planning and forecasting team within Supply Chain Optimization Technologies (SCOT), where I improved evaluation for their agentic systems. Previously, I worked for two years as a software engineer at Société Générale in Bangalore, where — among other things — I built a retrieval-augmented chat system that nudged me toward the NLP research I do today.
+I spent this past summer as an Applied Science Intern at Amazon in Bellevue, on the long-term planning and forecasting team within Supply Chain Optimization Technologies (SCOT), where I improved evaluation for their agentic systems. Previously, I worked for two years as a software engineer at Société Générale in Bangalore, where — among other things — I built a retrieval-augmented chat system that nudged me toward the NLP research I do today.
 
 For fun, I like reading books, playing chess, and ~~painting~~ cat-sitting.
