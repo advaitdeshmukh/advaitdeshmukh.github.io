@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student in Computer Science at University of Colorado Boulder
 
 profile:
   align: right
