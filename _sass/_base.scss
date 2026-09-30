@@ -206,6 +206,8 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    // Caption-sized so "Contact: <email>" fits the photo column on one line.
+    font-size: 0.8rem;
 
     p {
       display: inline-block;
