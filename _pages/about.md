@@ -7,9 +7,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  # Email is written out rather than linked, to keep it away from scrapers.
   more_info: >
-    <p>adde1214 [at] colorado [dot] edu</p>
+    <p>adde1214@colorado.edu</p>
 
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

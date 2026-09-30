@@ -499,6 +499,9 @@ footer.fixed-bottom {
     padding-top: 9px;
     padding-bottom: 8px;
     text-align: center;
+    // The one-line attribution is slightly wider than the content column,
+    // so let it use the full width instead of wrapping its last word.
+    max-width: none;
   }
 
   a {
