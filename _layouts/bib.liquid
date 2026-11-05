@@ -67,9 +67,9 @@
         visible. Any run of hidden middle authors is collapsed into a
         clickable "N more authors" expander (never the first/last/self).
       {%- endcomment -%}
-      {% assign author_tokens = "" %}
-      {% assign token_sep = "@@TOK@@" %}
-      {% assign pending_show = "" %}
+      {% assign author_tokens = '' %}
+      {% assign token_sep = '@@TOK@@' %}
+      {% assign pending_show = '' %}
       {% assign pending_count = 0 %}
 
       {%- for author in entry.author_array -%}
@@ -102,7 +102,7 @@
             {% assign pending_show_html = pending_show | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' %}
             {%- capture expander -%}<span class="more-authors" title="click to view {{ hide_label }}" onclick="var element = $(this); element.attr('title', ''); var more_authors_text = element.text() == '{{ hide_label }}' ? '{{ pending_show_html }}' : '{{ hide_label }}'; var cursorPosition = 0; var textAdder = setInterval(function(){ element.html(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '{{ site.more_authors_animation_delay }}');">{{ hide_label }}</span>{%- endcapture -%}
             {% assign author_tokens = author_tokens | append: token_sep | append: expander %}
-            {% assign pending_show = "" %}
+            {% assign pending_show = '' %}
             {% assign pending_count = 0 %}
           {%- endif -%}
           {%- capture author_html -%}{%- if author_is_self -%}<em class="author-self">{{ author.first }} {{ author_last_html }}</em>{%- elsif coauthor_url -%}<a href="{{ coauthor_url }}">{{ author.first }} {{ author_last_html }}</a>{%- else -%}{{ author.first }} {{ author_last_html }}{%- endif -%}{%- endcapture -%}
@@ -126,7 +126,7 @@
       {%- assign token_count = token_list | size -%}
       {%- for tok in token_list -%}
         {%- if forloop.first == false -%}
-          {%- if token_count > 2 %}, {% elsif token_count == 2 %} {% endif -%}
+          {%- if token_count > 2 %}, {% elsif token_count == 2 %}  {% endif -%}
         {%- endif -%}
         {%- if forloop.last and token_count > 1 %}and {% endif -%}
         {{- tok -}}
