@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🚀 I’m also excited to share that I’ll be joining **Amazon** as an **Applied Science Intern** this summer in Bellevue!
+🚀 I'm also excited to share that I'll be joining **Amazon** as an **Applied Science Intern** this summer in Bellevue!
