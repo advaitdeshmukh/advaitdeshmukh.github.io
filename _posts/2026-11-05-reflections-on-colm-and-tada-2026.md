@@ -14,7 +14,7 @@ _styles: >
   }
 ---
 
-Note: I originally wrote these reflections to be shared with my friends. I ended up getting super encouraging feedback and some even found my takeaways to be helpful while attending EMNLP this year, hence I decided to publish this piece here. A lot of the observations about the state of research in the AI era seem to have struck a nerve with others' experiences at EMNLP this year ([[1]](https://x.com/septisum/status/2114635813602369940), [[2]](https://x.com/marctechireai/status/2118003092947980517)). For sake of anonymity, I have removed all researcher names; However, I'm always happy to spill the tea in person xD. For those interested, I presented ["The Garden of Forking Prompts"](https://arxiv.org/abs/2609.14677) at TADA and COLM. My poster is available [here](/assets/pdf/garden-of-forking-prompts-poster.pdf).
+Note: I originally wrote these reflections to be shared with my friends. I ended up getting super encouraging feedback and some even found my takeaways to be helpful while attending EMNLP this year, hence I decided to publish this piece here. A lot of the observations about the state of research in the AI era seem to have struck a nerve with others' experiences at other conferences ([[1]](https://x.com/septisum/status/2114635813602369940), [[2]](https://x.com/marctechireai/status/2118003092947980517)). For sake of anonymity, I have removed all researcher names; However, I'm always happy to spill the tea in person xD. For those interested, I presented ["The Garden of Forking Prompts"](https://arxiv.org/abs/2609.14677) at TADA and COLM. My poster is available [here](/assets/pdf/garden-of-forking-prompts-poster.pdf).
 {: .post-note}
 
 ## Slop is everywhere, and is fairly easy to spot
