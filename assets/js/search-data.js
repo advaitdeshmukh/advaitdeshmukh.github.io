@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
@@ -23,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-the-computer-science-department-at-cu-has-awarded-me-with-the-lloyd-botway-award-and-recognized-me-as-one-of-the-best-tas",
+        },{id: "post-some-reflections-on-colm-and-tada-2026",
+        
+          title: "Some reflections on COLM and TADA 2026",
+        
+        description: "Notes from presenting at COLM and TADA",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/reflections-on-colm-and-tada-2026/";
+          
+        },
+      },{id: "news-the-computer-science-department-at-cu-has-awarded-me-with-the-lloyd-botway-award-and-recognized-me-as-one-of-the-best-tas",
           title: '🎉 The computer science department at CU has awarded me with the Lloyd...',
           description: "",
           section: "News",},{id: "news-our-work-on-entity-typing-got-accepted-to-sem-co-located-with-emnlp-2025",
@@ -38,8 +56,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-graduated-from-the-masters-program-at-cu-boulder",
           title: '🎓 I graduated from the masters program at CU Boulder!',
           description: "",
-          section: "News",},{id: "news-i-m-also-excited-to-share-that-i-ll-be-joining-amazon-as-an-applied-science-intern-this-summer-in-bellevue",
-          title: '🚀 I’m also excited to share that I’ll be joining Amazon as an...',
+          section: "News",},{id: "news-i-39-m-also-excited-to-share-that-i-39-ll-be-joining-amazon-as-an-applied-science-intern-this-summer-in-bellevue",
+          title: '🚀 I&amp;#39;m also excited to share that I&amp;#39;ll be joining Amazon as an...',
           description: "",
           section: "News",},{id: "news-my-second-author-work-led-by-rohan-was-accepted-to-acl-2026",
           title: '🎉 My second-author work, led by Rohan was accepted to ACL 2026!',
@@ -52,6 +70,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-the-garden-of-forking-prompts-was-also-accepted-to-tada-2026-see-you-in-berkeley",
           title: '🎉 The Garden of Forking Prompts was also accepted to TADA 2026 —...',
+          description: "",
+          section: "News",},{id: "news-️-i-wrote-some-of-my-thoughts-from-attending-colm-and-tada-this-year-in-this-blog-post",
+          title: '🖋️ I wrote some of my thoughts from attending COLM and TADA this...',
           description: "",
           section: "News",},{
         id: 'social-bluesky',
