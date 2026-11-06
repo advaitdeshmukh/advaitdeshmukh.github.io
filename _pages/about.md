@@ -26,7 +26,7 @@ announcements:
 
 I'm a Computer Science Ph.D. student at the University of Colorado Boulder, advised by [Dr. Maria Antoniak](https://maria-antoniak.github.io/) in the [CLS Lab](https://cls-lab.com). I work on language technology: the inductive biases these systems rely on, and the assumptions people make about what they're capable of. So far, I've studied what limitations language models inherit from their training distributions ([All Entities are Not Created Equal](https://aclanthology.org/2025.starsem-1.15/)), and how people engage with them for story generation, using conversations from WildChat ([The Garden of Forking Prompts](https://arxiv.org/abs/2609.14677)).
 
-I am particularly interested in working with narrative and discourse. Partly because I love fiction. Partly it's that discourse is hard: coherence and diversity can be tricky to define, and in an era of RLVR, this subjectivity makes it a compelling problem.
+I am interested broadly in narrative and discourse. Narrative is foundational to how we communicate, persuade and make sense of the world. I've recently also become interested in studying human AI-interactions as a new _kind_ of discourse, how it differs from traditional human-human discourse and how it may affect society more broadly.
 
 Previously, I worked with [Dr. Maria Pacheco](https://blast-cu.github.io/mlpacheco/) at the [BLAST Lab](https://blast-cu.github.io/), interned at Amazon, and spent two years as a software engineer at Société Générale.
 
