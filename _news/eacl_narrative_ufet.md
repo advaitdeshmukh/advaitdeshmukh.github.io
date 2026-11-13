@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congrats to Mreedul on getting his work accepted to EACL 2027 🇬🇷!
+Congrats to [Mreedul](https://www.linkedin.com/in/mreedul-gupta/) on getting [his work](https://arxiv.org/abs/2606.27598) accepted to EACL 2027 🇬🇷!
