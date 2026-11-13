@@ -29,6 +29,7 @@
     {% endif %}
     <!-- Title, with the venue tag inline so it costs no vertical space -->
     <div class="title">
+      <span class="title-text">{{ entry.title }}</span>
       {%- if entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
           {%- assign venue_style = null -%}
@@ -51,7 +52,6 @@
           <abbr class="badge rounded venue-tag">{{- entry.abbr -}}</abbr>
         {%- endif -%}
       {%- endif -%}
-      {{ entry.title }}
     </div>
     <!-- Author -->
     <div class="author">

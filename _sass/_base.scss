@@ -746,9 +746,9 @@ footer.sticky-bottom {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 0.4rem;
-    margin-top: 1rem;
-    margin-bottom: 0.6rem;
-    text-align: right;
+    margin-top: 1.4rem;
+    margin-bottom: 0.8rem;
+    text-align: left;
   }
 
   ol.bibliography {
@@ -757,7 +757,14 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1.1rem;
+      margin-bottom: 1.5rem;
+
+      // Entries were running together into one block of text; a hairline
+      // plus breathing room gives each one a visible boundary.
+      & + li {
+        border-top: 1px solid var(--global-divider-color);
+        padding-top: 1.5rem;
+      }
 
       .preview-thumb {
         float: right;
@@ -771,19 +778,30 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+        // Title and venue tag share one line: the title takes the space it
+        // needs and the tag is pinned to the right edge, so the tag still
+        // costs no vertical space.
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 0.75rem;
 
-        // Venue tag sits inline with the title, so it adds no height and
-        // frees the column the old left-hand badge used to occupy.
+        .title-text {
+          flex: 1 1 auto;
+          font-weight: 700;
+          font-size: 1.05rem;
+          line-height: 1.35;
+        }
+
         abbr.venue-tag {
+          flex: 0 0 auto;
           display: inline-block;
           background-color: var(--global-theme-color);
           color: var(--global-card-bg-color) !important;
-          font-size: 0.68rem;
+          font-size: 0.8rem;
           font-weight: 700;
           letter-spacing: 0.03em;
-          padding: 0.1rem 0.4rem;
-          margin-right: 0.45rem;
+          padding: 0.2rem 0.55rem;
           vertical-align: 0.12em;
           text-decoration: none;
 
@@ -805,7 +823,24 @@ footer.sticky-bottom {
         }
       }
 
+      // Author line and venue line were reading as one run of text, so the
+      // venue steps back: lighter colour, slightly smaller, with a gap above.
+      .periodical {
+        color: var(--global-text-color-light);
+        font-size: 0.95rem;
+        line-height: 1.4;
+        margin-top: 0.2rem;
+
+        &:empty {
+          display: none;
+          margin-top: 0;
+        }
+      }
+
       .author {
+        margin-top: 0.15rem;
+        line-height: 1.45;
+
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
