@@ -6,12 +6,19 @@ name: Update CV
 #
 # Fired by the CV repo's own "Notify website" workflow (see
 # advaitdeshmukh/CV/.github/workflows/notify-website.yml) via a
-# repository_dispatch call on every push to CV's main branch, instead of
-# polling on a schedule.
+# repository_dispatch call on every push to CV's main branch.
+#
+# The daily schedule is a safety net, not the primary trigger: between
+# 2026-08-06 and 2026-11-13 the dispatch never fired once (every sync in
+# that window was a manual workflow_dispatch), and nothing surfaced it.
+# If the dispatch breaks again the CV is at most a day stale instead of
+# silently frozen.
 
 on:
   repository_dispatch:
     types: [cv-updated]
+  schedule:
+    - cron: "0 6 * * *" # daily at 06:00 UTC
   workflow_dispatch:
 
 permissions:
