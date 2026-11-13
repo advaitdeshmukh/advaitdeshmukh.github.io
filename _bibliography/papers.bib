@@ -20,8 +20,8 @@
     abstract = "Large language models (LLMs) have changed the way people engage with stories. Drawing on public chatbot logs, we can see that when users generate stories, they iteratively edit their prompts to explore narrative possibilities, adjusting characters, redirecting plots, and swapping fictional universes. As aggregated data, these prompts represent rich traces of creative preference at scale. Yet story generation evaluation benchmarks rely on static, one-shot prompts that cannot capture this exploratory behavior. In this work, we study how users revise consecutive story prompts in the wild. Using a dataset of naturally occurring user-chatbot conversations, we construct WildStories, a sample of 275,635 story generation prompts (labeled with story format, prompt components, and explicitness), and WildEdits, a collection of 24,291 edit trees that model how users iteratively edit base story prompts and explore branching story possibilities. From these trees we develop a framework of edit types crossing four directions (adding, removing, changing, and extending) with fourteen targets (e.g., plot, character, genre). We then use our datasets and this framework to analyze user behavior in navigating narrative space via LLMs. Finally, we show how automated permutations based on the framework can be used for story generation benchmarking.",
 }
 
-@misc{gupta-etal-2026-narrative,
-    abbr = "arXiv",
+@inproceedings{gupta-etal-2027-narrative,
+    abbr = "EACL",
     bibtex_show = {true},
     title = "Narrative-UFET: Narrative Generation for Ultra-Fine Entity Typing",
     author = "Gupta, Mreedul and
@@ -29,11 +29,8 @@
       Umadi, Ashwin and
       Pauk, Matt and
       Pacheco, Maria Leonor",
-    year = "2026",
-    month = jun,
-    eprint = "2606.27598",
-    archivePrefix = "arXiv",
-    primaryClass = "cs.CL",
+    booktitle = "Proceedings of the Conference of the European Chapter of the Association for Computational Linguistics (EACL 2027)",
+    year = "2027",
     arxiv = "2606.27598",
     url = "https://arxiv.org/abs/2606.27598",
     abstract = "Ultra-fine entity typing (UFET) assigns highly specific types to entity mentions, but current approaches struggle with types in the long tail. We hypothesize that a key limitation is the reliance on sentence-level context, since disambiguating evidence is often spread across multiple sentences. Testing this has been difficult because all existing UFET resources are sentence-level. We present Narrative-UFET, a controlled extension of UFET in which each entity mention is paired with an automatically generated short, coherent narrative. Synthesizing narratives lets us isolate the effect of specific discourse properties. We experiment with two paired variants: one in which the entity's type is held constant across the narrative (Maintain) and one in which it shifts (Change). We show that narrative context yields consistent improvements on long-tail types over sentence-level baselines, with the Change variant providing the stronger signal. A comparison against naturally occurring contexts shows that synthetic narratives yield stronger gains, indicating that controlled discourse construction can surface signals that real text leaves implicit. Substantial room for improvement remains, suggesting open directions in both discourse modeling and narrative construction."
