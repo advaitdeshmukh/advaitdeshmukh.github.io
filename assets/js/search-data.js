@@ -74,8 +74,8 @@ ninja.data = [{
           section: "News",},{id: "news-️-i-wrote-some-of-my-thoughts-from-attending-colm-and-tada-this-year-in-this-blog-post",
           title: '🖋️ I wrote some of my thoughts from attending COLM and TADA this...',
           description: "",
-          section: "News",},{id: "news-congratulations-to-mreedul-on-getting-his-work-accepted-to-eacl-2027",
-          title: '🎉 Congratulations to Mreedul on getting his work accepted to EACL 2027 🇬🇷!...',
+          section: "News",},{id: "news-congrats-to-mreedul-on-getting-his-work-accepted-to-eacl-2027",
+          title: '🎉 Congrats to Mreedul on getting his work accepted to EACL 2027 🇬🇷!...',
           description: "",
           section: "News",},{
         id: 'social-bluesky',
