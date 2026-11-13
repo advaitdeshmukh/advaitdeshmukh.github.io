@@ -745,8 +745,9 @@ footer.sticky-bottom {
   h2.bibliography {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
+    padding-top: 0.4rem;
+    margin-top: 1rem;
+    margin-bottom: 0.6rem;
     text-align: right;
   }
 
@@ -756,37 +757,52 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: 1.1rem;
 
-      .preview {
+      .preview-thumb {
+        float: right;
+        margin: 0 0 0.5rem 1rem;
+        max-width: 150px;
       }
 
-      .abbr {
-        margin-bottom: 0.5rem;
+      .award {
+        color: var(--global-theme-color) !important;
+        border: 1px solid var(--global-theme-color);
+      }
 
-        abbr {
+      .title {
+        font-weight: bolder;
+
+        // Venue tag sits inline with the title, so it adds no height and
+        // frees the column the old left-hand badge used to occupy.
+        abbr.venue-tag {
           display: inline-block;
           background-color: var(--global-theme-color);
-          margin-bottom: 0.5rem;
           color: var(--global-card-bg-color) !important;
+          font-size: 0.68rem;
+          font-weight: 700;
+          letter-spacing: 0.03em;
+          padding: 0.1rem 0.4rem;
+          margin-right: 0.45rem;
+          vertical-align: 0.12em;
+          text-decoration: none;
 
           a {
-            color: white;
+            color: inherit;
 
             &:hover {
               text-decoration: none;
             }
           }
-        }
 
-        .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
+          // A venue colour from _data/venues.yml arrives as an inline
+          // background-color. Those are light pastels, so white text on them
+          // falls to ~1.8:1; dark text clears 6:1 on every one. The untinted
+          // fallback keeps card-bg, which already contrasts in both themes.
+          &[style] {
+            color: #1a1a1a !important;
+          }
         }
-      }
-
-      .title {
-        font-weight: bolder;
       }
 
       .author {
@@ -824,10 +840,10 @@ footer.sticky-bottom {
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
+          padding-left: 0.6rem;
+          padding-right: 0.6rem;
+          padding-top: 0.1rem;
+          padding-bottom: 0.1rem;
           margin-left: 0;
 
           &:hover {

@@ -13,3 +13,7 @@
 "arXiv":
   url: https://arxiv.org/
   color: "#c99ad9"
+
+"EACL":
+  url: https://aclanthology.org/venues/eacl/
+  color: "#e8b87f"
